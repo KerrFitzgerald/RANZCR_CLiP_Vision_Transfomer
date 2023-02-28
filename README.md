@@ -9,4 +9,6 @@ PyTorch was used to enable pre-trained (on ImageNet) Vision Transformer (ViT) ne
 
 The implemented ViT networks used image patch sizes of 16x16 pixels with the overall image size being set at 384x384 pixels. My team acheived 82.7% classification accuracy.
 
+Note that the notebooks are designed to work on the Kaggle Platform and will need significant changes moved to a desktop system!
+
 ![kaggle](https://user-images.githubusercontent.com/60627318/116559405-5668da00-a8f8-11eb-9b32-81f38e534b6e.png)
